@@ -61,3 +61,5 @@ Volume 13, Number 2, April 1976, pages 236-250.
 Algorithm 582: The Gibbs-Poole-Stockmeyer and Gibbs-King Algorithms for Reordering Sparse Matrices,
 ACM Transactions on Mathematical Software,
 Volume 8, Number 2, June 1982, pages 190-194.
+
+If there is any issue or any bug that you might see in the program, please conider making a Pull Request/Issue or contact me directly [Sourangshu Ghosh](mailto:sourangshug123@gmail.com)
